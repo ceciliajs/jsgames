@@ -1,1 +1,1 @@
-# MXMO
+# javascriptgames
